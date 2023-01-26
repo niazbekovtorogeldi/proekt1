@@ -4,6 +4,7 @@ public class Main {
         System.out.printf("бугун сабак саат %f жарым башталат", 11.5);
         System.out.printf("салам менин атым %s,%d жаштамын", "асан",22);
 
+
         System.out.print("diego");
         System.out.println("is the best");
         System.out.print("amigo");
